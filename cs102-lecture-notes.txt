@@ -1,0 +1,5 @@
+cd: Used to change directory
+pwd: Present working directory
+mkdir: This command creates a directory.
+touch: used to creat e a file
+mv: This command moves directories or files from one directory to the other.
